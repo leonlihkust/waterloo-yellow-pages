@@ -1,0 +1,7 @@
+{
+  "name": "Waterloo Chinese Business Directory & Yellow Pages",
+  "description": "Bilingual Chinese business directory and local Yellow Pages for Kitchener-Waterloo with category search, reviews, and an offline AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
